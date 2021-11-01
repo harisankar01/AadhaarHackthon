@@ -33,12 +33,14 @@ The address is segregated into fragments in a form(editable with restrictions):
 ![8](https://user-images.githubusercontent.com/90249023/139589820-6ed33ed0-af12-4999-82be-b6e36097f159.jpg)
 After validation,address is stored in firebase realtime database using json format in stack datastructure:
 
+
 ![9](https://user-images.githubusercontent.com/90249023/139589858-6b84940d-93f0-41d1-bb60-b666508825a3.jpg)
 
 
 ![10](https://user-images.githubusercontent.com/90249023/139589903-ff88f369-98ea-44eb-ae06-577c9d77d52c.jpg)
 
 
-
+Presenation:
+[uidai hackathon.pptx](https://github.com/harisankar01/AadhaarHackthon/files/7453441/uidai.hackathon.pptx)
 
 **************************************************************THANK YOU*****************************************************************************************
